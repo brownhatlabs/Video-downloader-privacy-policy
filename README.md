@@ -15,7 +15,7 @@ nor do we keep track of the consumers' visits of our application, we even don't 
 <p>We don't collect any personal information as of now.
 The app does use third party services that may collect information used to identify you.</p>
 
-<p><strong>Lod Data</strong></p>
+<p><strong>Log Data</strong></p>
 <p> We want to inform you that whenever you use our Service, in case of an error in the app we collect
     data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
