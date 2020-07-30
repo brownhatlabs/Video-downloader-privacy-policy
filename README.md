@@ -11,8 +11,6 @@ To be specific, we do not require the consumers to get registered before downloa
 nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such PII.</p>
 
 <p><strong>Information Collection and Use</strong></p>
-<p>We don't collect any personal information as of now.
-The app does use third party services that may collect information used to identify you.</p>
 
 <p><strong>Log Data</strong></p>
 <p> We want to inform you that whenever you use our Service, in case of an error in the app we collect
