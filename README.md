@@ -41,6 +41,11 @@ We use the information get from Google Analytics only to improve our services.</
     assume no responsibility for the content, privacy policies, or practices of any third-party
     sites or services.</p>
 
+<p><strong>Account or Data deletion</strong></p>
+<p>If you want to delete any data or account please contact
+    us at brownhatlabs@gmail.com.</p>
+    </body>
+
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
     us at brownhatlabs@gmail.com.</p>
