@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Privacy Policy</h2>
+<h2>BrownHatLabs - Privacy Policy</h2>
 
 <p>Protecting your privacy is important to us. 
 We hope the following statement will help you understand how our app deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the Google Play Platform).</p>
@@ -42,8 +42,7 @@ We use the information get from Google Analytics only to improve our services.</
     sites or services.</p>
 
 <p><strong>Account or Data deletion</strong></p>
-<p>If you want to delete any data or account please contact
-    us at brownhatlabs@gmail.com.</p>
+<p>If you want to delete any data or account please contact us at brownhatlabs@gmail.com. After sending request for deletion all types of data will be deleted within 7 days.</p>
     </body>
 
 <p><strong>Contact Us</strong></p>
